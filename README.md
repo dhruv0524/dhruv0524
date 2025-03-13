@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **dhruv0524/dhruv0524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,11 +55,6 @@ I'm a **Computer Science and Engineering** student at **VIT Bhopal** with a pass
 
 ---
 
-### **📊 My GitHub Stats**
-![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=dhruv0524&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv0524&layout=compact&theme=react)  
-
----
 
 ### 📌 **Pinned Repositories**
 🔹 [T20-Analytics](https://github.com/dhruv0524/T20-World-Cup-Cricket-Data-Analytics) - Cricket Data Insights & Player Stats  
