@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 # 👋 Hey there! I'm Dhruv Trivedi  
 
 🚀 **Aspiring Data Analyst & Front-End Developer**  
@@ -44,18 +44,6 @@ I'm a **Computer Science and Engineering** student at **VIT Bhopal** with a pass
 ## 📌 Co-Curricular  
 🎭 **Event Manager @ AdVITya 2024** (Led a 1000+ attendee event, boosting participation)  
 ⚽ **Sports Enthusiast** (Volleyball & Football Player)  
-
-📫 Let's Connect!  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-trivedi-42b084271/) | 📧 dhruvtrivedi5024@gmail.com  
-
-🚀 **Check out my work on [GitHub](https://github.com/dhruv0524)!**  
--->
-# 👋 Hey there! I'm Dhruv Trivedi  
-
-🚀 **Aspiring Data Analyst & Front-End Developer**  
-💡 Turning complex datasets into actionable insights & crafting seamless user experiences  
-
----
 
 ## 🔥 My GitHub Contribution Activity  
 
