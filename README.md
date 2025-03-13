@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 # 👋 Hey there! I'm Dhruv Trivedi  
 
 🚀 **Aspiring Data Analyst & Front-End Developer**  
@@ -47,5 +48,41 @@ I'm a **Computer Science and Engineering** student at **VIT Bhopal** with a pass
 📫 Let's Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-trivedi-42b084271/) | 📧 dhruvtrivedi5024@gmail.com  
 
+🚀 **Check out my work on [GitHub](https://github.com/dhruv0524)!**  
+-->
+# 👋 Hey there! I'm Dhruv Trivedi  
+
+🚀 **Aspiring Data Analyst & Front-End Developer**  
+💡 Turning complex datasets into actionable insights & crafting seamless user experiences  
+
+---
+
+## 🔥 My GitHub Contribution Activity  
+
+📅 **March 2025**  
+
+✅ **13 commits** - [T20-Analytics](https://github.com/dhruv0524/T20-World-Cup-Cricket-Data-Analytics) 🏏 (T20 Cricket Data Insights)  
+✅ **4 commits** - [Sales-Dashboard](https://github.com/dhruv0524/Sales-Management-Data-Analytics) 📊 (Power BI Sales Analytics)  
+✅ **2 commits** - [Portfolio-Website](https://github.com/dhruv0524/dhruv0524) 🌐 (My personal web portfolio)  
+✅ **1 commit** - [Dhruv-Resume](https://github.com/dhruv0524/resume) 📄 (Latest Resume & CV)  
+
+---
+
+### **📊 My GitHub Stats**
+![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=dhruv0524&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv0524&layout=compact&theme=react)  
+
+---
+
+### 📌 **Pinned Repositories**
+🔹 [T20-Analytics](https://github.com/dhruv0524/T20-World-Cup-Cricket-Data-Analytics) - Cricket Data Insights & Player Stats  
+🔹 [Sales-Dashboard](https://github.com/dhruv0524/Sales-Management-Data-Analytics) - Power BI & SQL Sales Analytics  
+🔹 [Portfolio-Website](https://github.com/dhruv0524/dhruv0524) - My Web Portfolio  
+🔹 [Dhruv-Resume](https://github.com/dhruv0524/resume) - My Resume & CV  
+
+---
+
+### 📫 Let's Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-trivedi-42b084271/) | 📧 dhruvtrivedi5024@gmail.com  
 🚀 **Check out my work on [GitHub](https://github.com/dhruv0524)!**  
 
