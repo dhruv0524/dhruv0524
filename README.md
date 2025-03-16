@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Dhruv Trivedi 👋</h1>
 
----
 
 ## 🌍 Socials:
 
@@ -33,14 +31,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv0524&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv0524&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
-⭐ **Feel free to connect and collaborate!** 🚀
