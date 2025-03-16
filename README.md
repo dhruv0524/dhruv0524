@@ -1,7 +1,16 @@
+## 🚀 Tech Stack  
+- **Languages:** Python, SQL, HTML, CSS  
+- **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn, OpenCV  
+- **Databases:** MySQL, Microsoft SQL Server  
+- **Analytics & Visualization:** Power BI, Tableau, Microsoft Excel  
+- **Other Skills:** Web Scraping, AI/ML (YOLOv8), Flask  
 
-🚀 **Aspiring Data Analyst & Front-End Developer**  
-💡 Turning complex datasets into actionable insights & crafting seamless user experiences  
+## 📌 Featured Projects  
+🔹 **[HelmEye - AI-based Helmet Detection System](https://github.com/your-repo-link)**  
+🔹 **[T20 World Cup Cricket Data Analytics](https://github.com/your-repo-link)**  
+🔹 **[Sales Management - Data Analytics](https://github.com/your-repo-link)**  
 
-🔹 **Data Enthusiast**: Experienced in **Power BI, Tableau, SQL, Python, and Excel**  
-🔹 **Front-End Developer**: Skilled in **React.js, JavaScript, HTML, CSS, Bootstrap**  
-
+## 📫 Connect with Me  
+- 📧 Email: dhruvtrivedi5024@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-trivedi-42b084271/)  
+- 🔗 [GitHub](https://github.com/dhruv0524)  
